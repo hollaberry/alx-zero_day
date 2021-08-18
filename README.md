@@ -1,1 +1,1 @@
-Repeating git to confirm knowledge
+The journey starts from here
